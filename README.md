@@ -65,7 +65,7 @@ My portfolio showcases:
 
 ---
 
-## 🧠 Featured Project — AI Personal Memory Assistant
+## 🧠 Featured Project — AI Personal Memory Assistant ( Currently Working On )
 
 An AI-powered memory layer designed to retain user context, understand preferences, and deliver personalized experiences across conversations.
 
