@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Mehak
+# 👋 Hi, I'm Mehak
 
 ### AI Systems • Full-Stack Development • Embedded Intelligence
 
@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://mehak-portfolio-omega.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/mehak-m-/">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:mongamehak0786@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Mehakify24">
@@ -36,97 +36,132 @@
 
 🎓 B.Tech Computer Engineering Student
 
-💡 Passionate about building products at the intersection of:
+💡 Passionate about:
 
 - Artificial Intelligence
-- Full Stack Development
 - Software Engineering
+- Full Stack Development
 - Computer Vision
 - Agentic AI Systems
-- Embedded Intelligence
+- Embedded Systems
 
-🎯 Currently focused on building production-grade software, AI applications, and scalable systems while preparing for top software engineering internships.
+🎯 Currently building intelligent systems that combine AI, automation, prediction, and real-world impact.
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
 ### Explore My Work
 
-🔗 https://mehak-portfolio-omega.vercel.app/
-
-My portfolio showcases:
-
-- Projects
-- Technical Skills
-- Resume
-- Development Journey
-- Contact Information
+🔗 **https://mehak-portfolio-omega.vercel.app/**
 
 ---
 
-## 🧠 Featured Project — AI Personal Memory Assistant ( Currently Working On )
+# 🚄 Flagship Project — Shinkansen Brain
 
-An AI-powered memory layer designed to retain user context, understand preferences, and deliver personalized experiences across conversations.
+### Autonomous Railway Intelligence Operating System
+
+An AI-powered railway operating system that:
+
+- Detects risks before failures occur
+- Learns from historical incidents
+- Simulates disasters using Digital Twins
+- Executes AI-driven decisions
+- Generates black-box investigation reports
+- Forecasts railway conditions up to 2040
+
+### Core Workflow
+
+```text
+DETECT
+   ↓
+REASON
+   ↓
+DECIDE
+   ↓
+ACT
+   ↓
+REPORT
+```
+
+### Built With
+
+`React`
+`TypeScript`
+`Vite`
+`Tailwind CSS`
+`FastAPI`
+`Python`
+`SQLite`
+`WebSockets`
+
+---
+
+# 🧠 AI Personal Memory Assistant
+
+AI-powered memory layer that remembers user preferences, retrieves context intelligently, and creates personalized experiences.
 
 ### Features
 
 - Long-Term Memory
 - Semantic Search
 - Context-Aware Retrieval
+- Agentic Workflows
 - Personalized Recommendations
-- Agentic Memory Workflows
-- Intelligent Knowledge Recall
 
-### Tech Stack
+### Stack
 
-`Next.js` • `React` • `MongoDB` • `TypeScript` • `OpenAI` • `Vector Search`
+`Next.js`
+`React`
+`MongoDB`
+`TypeScript`
+`OpenAI`
+`Vector Search`
 
 ---
 
-## 🌊 Featured Project — M.A.R.S
+# 🌊 M.A.R.S
 
 ### Maritime Active Response Stabilization System
 
-An intelligent maritime stabilization platform that uses embedded systems, predictive control, and machine learning to compensate for ship movement and improve crew comfort and safety.
+An intelligent maritime stabilization platform that combines:
 
-### Highlights
-
-- Real-Time Motion Detection
-- ESP32-Based Control System
-- IMU Sensor Integration
-- PID-Controlled Stabilization
-- Predictive Motion Compensation
-- Wave Pattern Prediction
-- Smart Diagnostics
-- Energy-Efficient Control
+- Embedded Systems
+- Machine Learning
+- Predictive Control
+- Motion Compensation
 
 ### Technologies
 
-`ESP32` • `Raspberry Pi` • `Python` • `Machine Learning` • `PID Control` • `Embedded Systems`
+`ESP32`
+`Raspberry Pi`
+`Python`
+`Machine Learning`
+`PID Control`
 
 ---
 
-## 📚 Featured Project — Library Seat Management System
+# 📚 Library Seat Management System
 
-Computer Vision-based smart seat occupancy detection system designed for university libraries.
+Computer Vision-based seat occupancy detection platform.
 
 ### Features
 
-- CCTV-Based Monitoring
-- Real-Time Seat Detection
-- Laptop & Notebook Detection
+- CCTV Monitoring
+- YOLO Detection
 - Vacancy Tracking
-- Automated Reporting
+- Automated Reports
 - Multi-Floor Monitoring
 
 ### Technologies
 
-`Python` • `YOLO` • `OpenCV` • `Computer Vision`
+`Python`
+`YOLO`
+`OpenCV`
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -140,35 +175,25 @@ Computer Vision-based smart seat occupancy detection system designed for univers
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql" />
 </p>
 
-### AI & Machine Learning
-
-- OpenAI APIs
-- LangChain
-- Vector Databases
-- RAG Systems
-- NumPy
-- Pandas
-- Scikit-Learn
-
-### Cloud, DevOps & Infrastructure
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,git,github,linux,vscode" />
 </p>
 
-### Core Computer Science
+### AI & ML
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Software Engineering
-- REST APIs
-- System Design
+- OpenAI APIs
+- LangChain
+- Vector Databases
+- RAG Systems
+- Pandas
+- NumPy
+- Scikit-Learn
 
 ---
 
-## 📖 Currently Learning
+# 📖 Currently Learning
 
 - Advanced System Design
 - AI Infrastructure
@@ -184,73 +209,51 @@ Computer Vision-based smart seat occupancy detection system designed for univers
 
 ---
 
-## 🎯 Current Focus
+# 🏗 Current Engineering Interests
 
-- Building AI Personal Memory Assistant
-- Learning Production AI Engineering
-- Exploring Agentic AI Systems
-- Solving DSA Daily
-- Full Stack Development
-- Open Source Contributions
-- Internship Preparation
-
----
-
-## 🏆 Achievements
-
-- JPMorgan Chase Software Engineering Virtual Experience
-- HackerRank Software Engineering Certificate
-- Student Placement Representative
-- Engineering Capstone Project Contributor
-- Multiple AI & Full Stack Projects
+- Agentic AI
+- Multi-Agent Systems
+- RAG Architectures
+- AI Infrastructure
+- Distributed Systems
+- Computer Vision
+- Embedded Intelligence
+- Production AI Applications
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 2026 Goals
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mehakify24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehakify24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Build Production-Grade AI Products
+- Master DSA & System Design
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+- Explore Advanced AI Engineering
 
 ---
 
-## 🔥 GitHub Streak
+# ⚡ Fun Facts
 
-<div align="center">
+🧠 I enjoy building systems that learn from data and make decisions.
 
-<img src="https://streak-stats.demolab.com?user=Mehakify24&theme=tokyonight&hide_border=true"/>
+🚄 Currently building an autonomous railway intelligence platform.
 
-</div>
+🌊 Building maritime stabilization systems with embedded intelligence.
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehakify24&theme=tokyo-night"/>
-
-</div>
+📚 Interested in AI, infrastructure, and real-world engineering challenges.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/mehak-m-/
+<a href="https://www.linkedin.com/in/mehak-m-/">LinkedIn</a> •
+<a href="https://mehak-portfolio-omega.vercel.app/">Portfolio</a> •
+<a href="mailto:mongamehak0786@gmail.com">Email</a> •
+<a href="https://github.com/Mehakify24">GitHub</a>
 
-🌐 Portfolio: https://mehak-portfolio-omega.vercel.app/
-
-📧 Email: mongamehak0786@gmail.com
-
-🐙 GitHub: https://github.com/Mehakify24
-
-</div>
+</p>
 
 ---
 
@@ -258,6 +261,6 @@ Computer Vision-based smart seat occupancy detection system designed for univers
 
 ### 💭 Building intelligent systems, one project at a time.
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>
