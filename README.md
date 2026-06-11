@@ -57,7 +57,7 @@
 
 ---
 
-# 🚄 Flagship Project — Shinkansen Brain
+# 🚄 Flagship Project — Shinkansen Brain ( In Progress )
 
 ### Autonomous Railway Intelligence Operating System
 
@@ -97,7 +97,7 @@ REPORT
 
 ---
 
-# 🧠 AI Personal Memory Assistant
+# 🧠 AI Personal Memory Assistant ( In progress )
 
 AI-powered memory layer that remembers user preferences, retrieves context intelligently, and creates personalized experiences.
 
